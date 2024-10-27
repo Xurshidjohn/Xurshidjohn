@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Github sahifamga xush kelibsiz
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Xurshidjohn</a>
+    <a href="https://www.linkedin.com/in/xurshid-tojiyev-9b85072b3/">Xurshidjohn</a>
   </h1>
   
   <p align="center">
